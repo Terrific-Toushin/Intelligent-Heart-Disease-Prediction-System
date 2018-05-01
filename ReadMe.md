@@ -1,0 +1,1 @@
+IT's an Intellegient heart disease prediction System software using data mining technics
